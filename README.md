@@ -1,5 +1,15 @@
-# C99nl-Bash
-This is a simple bash script for queryting the all the c99nl API's in a terminal
+# C99.nl CLI
+
+The purpose of this Repo is to allow anyone to [c99nl](https://api.c99.nl/) as a command line tool for quick access to the API's that it offers.
+This tool although used regularly often by myself isnt programmed well. If there are any issues or improvement suggestions pelase let me know.  
+
+## Install
+
+Simply download the .sh file and run it with BASH. 
+You will have to ADD your API key from c99nl to the keys variable in the code specified with a 'Change Me'
+
+
+## Usage
 
 
         --------------------------- CLI C99 API -----------------------------------------
